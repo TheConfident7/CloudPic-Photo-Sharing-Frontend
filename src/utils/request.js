@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const request = axios.create({
-  baseURL: 'https://scaleblemultimediasharingbackend-whw-exf0gpd5fmgkd3er.francecentral-01.azurewebsites.net/api',
+  baseURL: 'https://cloudpic-photo-sharing-backend-gph2dhgjd4e4faga.uksouth-01.azurewebsites.net/api',
   timeout: 10000,
   withCredentials: true
 })
