@@ -3,7 +3,7 @@
     <div class="nav-container">
       <router-link to="/" class="logo">
         <span>📷</span>
-        <span>Picture Sharing Platform</span>
+        <span>CloudPic Photo Sharing</span>
       </router-link>
       <div class="nav-links">
         <router-link to="/" class="nav-link">Home</router-link>

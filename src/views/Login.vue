@@ -1,7 +1,7 @@
 <template>
   <div class="login-container">
     <div class="login-box">
-      <h1 class="title">Picture Sharing Platform</h1>
+      <h1 class="title">CloudPic Photo Sharing</h1>
       <h2 class="subtitle">Login</h2>
       <form @submit.prevent="handleLogin" class="login-form">
         <div class="form-group">

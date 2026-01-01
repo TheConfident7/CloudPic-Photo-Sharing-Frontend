@@ -1,7 +1,7 @@
 <template>
   <div class="register-container">
     <div class="register-box">
-      <h1 class="title">Picture Sharing Platform</h1>
+      <h1 class="title">CloudPic Photo Sharing</h1>
       <h2 class="subtitle">Register</h2>
       <form @submit.prevent="handleRegister" class="register-form">
         <div class="form-group">
